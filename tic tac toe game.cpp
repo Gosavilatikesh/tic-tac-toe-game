@@ -141,8 +141,8 @@ void board()
 	cout << "     |     |      " <<"\n";
 	cout << "  " << square[3] << "  |  " << square[4] << "  |  " << square[5] << "     \n";
 	cout << "_____|_____|_____ " <<"\n";
-    cout << "     |     |      " <<"\n";
-    cout << "  " << square[6] << "  |  " << square[7] << "  |  " << square[8] << "     \n";
+        cout << "     |     |      " <<"\n";
+        cout << "  " << square[6] << "  |  " << square[7] << "  |  " << square[8] << "     \n";
 	cout << "     |     |      " <<"\n";
 	
 	cout << "\n";
